@@ -1,6 +1,6 @@
 ﻿body {
     background-color: var(--mud-palette-background);
-    background-image: url(/images/background.jpg);
+    background-image: url(/BlazorIndicators/images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
