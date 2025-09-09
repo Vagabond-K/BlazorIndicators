@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorIndicatorsSample",
   "resources": {
-    "hash": "sha256-mc9riaZxWafULAjZmQRCtE0g59qMDbyjq4+ojAmZyXA=",
+    "hash": "sha256-qmlK/mMZd++1gGhpkhe264GBAMY8l3kbm1EVM6yOTP0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -36,8 +36,8 @@
       "Microsoft.JSInterop.wasm": "sha256-sg+byQ2p2DL0jueE10fuP+E/z1tg+MBdmuirKSCybK0=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-ntjPxPV6zxozx8TpyHxdn2BRZ8n4KbBXstLFa4nCukk=",
       "MudBlazor.wasm": "sha256-fOKopWItHwPmdVB90TmK4r/FB3PxImK0VHwFkwJSEB0=",
-      "VagabondK.Indicators.wasm": "sha256-Oc5I9HdsaCidvw/4SovjbELwBD9fHb9cvVeE6LRyZEM=",
-      "VagabondK.Indicators.Razor.wasm": "sha256-/VhZrtXl2ShVIwWtXa0o2yfvCvbJMAT5a1wzjF/hsAU=",
+      "VagabondK.Indicators.wasm": "sha256-DSh5jn9hQl9jkJf1MWD22jCnJ61gzJHEpv2bvns7CcA=",
+      "VagabondK.Indicators.Razor.wasm": "sha256-RNxlZ1qM76AMTU6A83znA+VZ8toF0Qzx4987B2nKftk=",
       "System.Collections.Concurrent.wasm": "sha256-DujBQh6dHuhywNgqlOmd42F07oFiXVf7MzIhD5eVXZY=",
       "System.Collections.Immutable.wasm": "sha256-ezULBUzDsUuGmdqT6I0TTInJbTzhr5o5LBO1gLV/ASc=",
       "System.Collections.NonGeneric.wasm": "sha256-MuvyQig4l/+1qZuJVuH7g1Swo8mGpE3yl2Y/PplipTg=",
@@ -62,9 +62,9 @@
       "System.Text.Json.wasm": "sha256-vu23UAEBEhF4h6M5jF3xyZIE4jMl79SG/l/5suLDfn4=",
       "System.Text.RegularExpressions.wasm": "sha256-C7wOVMmbEyw27f8Lgy8pdix8YlarAMoW37odwy1kJYg=",
       "System.wasm": "sha256-/Ib2sECJIp5OmAw2FVP/3jA36Bh6yA6fac798DlmOd8=",
-      "netstandard.wasm": "sha256-JCaS6XTfigxkQr2OIVfz/e/WtLfCEC9g9a3Sr8xX8xI=",
-      "System.Private.CoreLib.wasm": "sha256-ez4GcxxegZiWfEYzRYNFfroc/CU+nOf8624WBRd2BRE=",
-      "BlazorIndicatorsSample.wasm": "sha256-eTMH632ZEFojGfJaB0ofiTBgh9iHGN9O7BSgHh9DB68="
+      "netstandard.wasm": "sha256-2V51n2K8kbzjw1roLThJVwrKLRPw9c2svDBIXT0LuUk=",
+      "System.Private.CoreLib.wasm": "sha256-PQW3JbjyLWftzRttgnftu4baaBCebiy9ibWy2txDNpY=",
+      "BlazorIndicatorsSample.wasm": "sha256-pKz7Jt1KTcjkODvxKjKFiz3EGbs1Ba3BQlymQGq3Yig="
     }
   },
   "cacheBootResources": true,
